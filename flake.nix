@@ -39,7 +39,6 @@
               cargo-watch
               cargo-flamegraph
               gnuplot
-              wgpu-utils
               (rust-bin.selectLatestNightlyWith (
                 toolchain:
                 toolchain.default.override {
