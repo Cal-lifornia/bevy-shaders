@@ -22,7 +22,6 @@
           inherit system overlays;
         };
         lib = pkgs.lib;
-        stdenv = pkgs.stdenv;
       in
       {
         devShells = {
